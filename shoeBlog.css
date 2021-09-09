@@ -1,0 +1,47 @@
+@font-face {
+  font-family: playfair;
+  src: url(playfair.ttf);
+}
+
+
+#top {
+  border-bottom: 10px solid #000000;
+}
+
+a {
+  text-decoration: none;
+  color: #12a1dc;
+  font-family: monospace;
+}
+
+h3 {
+  font-family:playfair;
+  font-size: 25px;
+}
+
+h1 {
+  font-family: playfair;
+  font-size: 40px;
+}
+
+body {
+  background-color: #ffffe6;
+  margin: 0px;
+  font-family: playfair;
+}
+
+#links {
+  border-right: 5px solid #000000;
+}
+
+#centerDiv {
+  border-right: 5px solid #000000;
+}
+
+img {
+  border: 2px solid #000000;
+}
+
+#des {
+  font-size: 30px;
+}
